@@ -2,7 +2,6 @@
 <h1 align="center">My name is Ketaki Kanjiker</h1>
 <h3 align="center">I'm a student at Manipal Institute of Technology, Bengaluru</h3>
 
-- 🌱 I’m currently learning **coding 💻**
 
 - 📫 How to reach me **kanjikerketaki@gmail.com**
 
